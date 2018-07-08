@@ -1,10 +1,20 @@
-Important point to do before this project was turned into a production application - i.e. what would you improve/add, given more time.
+Section 1
+	Name: Abhijeet Deshmukh
+	Years of Experience: 10 years 10 months
 
-1. More validation for Request attribute.
-2. Implementation of Interceptor for verification of white-list character in the request body to avoid any wrong request to reach to controller/resource.
-3. Implementation of Transactional Manager over debit and credit process.
-4. More logging for prod application debugging and move all hard-coded error messages from java files to properties file.
-5. Response object can carry more detail info about transactions
-6. More meaning full and different http response for different scenario.
-7.Implementation of Global Exception handler which will be used whenever a exception propagates uncaught throughout the system.
-6. Security implementation for authentication of request (like JWT ).
+Section 2: 
+	Build IDE: IntelliJ Idea 15.0
+	JDK Version: java version "1.8.0_172"
+	GRADLE : 2.14
+
+
+Section 3 
+a)	Sonar lint / EclEmma scan Snapshot = WIP
+b)	Final Output Snapshot = WIP
+c)	Junit Coverage Snapshot =WIP
+
+Section 4 
+Licensing 
+A)	THE CODE DOES NOT HAVE ANY COPYRIGHT WHATSOEVER. 
+b)	THE CODE IS NOT GOVERNED BY ANY LICENSES WHATSOEVER. 
+c)	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR USERS OF THE CODE WOULD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -160,7 +160,7 @@ public class CreditCardEngineServiceImpl implements CreditCardEngineService {
      * 4) Sum the results from Step 2 and Step 3.
      * 5) If the result from Step 4 is divisible by 10, the card number is valid; otherwise, it is invalid.
      */
-    public boolean isValidCreditCardNumber(String creditCardNumber) {
+    private boolean isValidCreditCardNumber(String creditCardNumber) {
         boolean isValid = false;
 
         try {

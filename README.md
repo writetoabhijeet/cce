@@ -9,9 +9,9 @@ Section 2:
 
 
 Section 3 
-a)	Sonar lint / EclEmma scan Snapshot = WIP
-b)	Final Output Snapshot = WIP
-c)	Junit Coverage Snapshot =WIP
+a)	Sonar lint / EclEmma scan Snapshot = https://github.com/writetoabhijeet/cce/blob/master/images_snapshot/assignment_snapshot.docx
+b)	Final Output Snapshot = https://github.com/writetoabhijeet/cce/blob/master/images_snapshot/assignment_snapshot.docx
+c)	Junit Coverage Snapshot =https://github.com/writetoabhijeet/cce/blob/master/images_snapshot/assignment_snapshot.docx
 
 Section 4 
 Licensing 
